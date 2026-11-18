@@ -28,7 +28,7 @@
     </parent>
 
     <artifactId>org.apache.sling.discovery.standalone</artifactId>
-    <version>1.0.5-SNAPSHOT</version>
+    <version>1.0.5-T20261118062920-82d492d</version>
 
     <name>Apache Sling Discovery Standalone Implementation</name>
     <description>
@@ -43,7 +43,7 @@
   </scm>
 
     <properties>
-        <project.build.outputTimestamp>1</project.build.outputTimestamp>
+        <project.build.outputTimestamp>1794983465</project.build.outputTimestamp>
     </properties>
     <dependencies>
         <dependency>
